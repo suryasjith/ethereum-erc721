@@ -25,13 +25,13 @@ There are also test mocks that can be seen [here](src/tests/mocks). These are sp
 ## Requirements
 
 * NodeJS 9.0+ is supported
-* Windows, Linux or macOS
+* Microsoft Windows, Linux or macOS
 
 ## Installation
 
 ### npm
 
-*This is the recommended installation method if you want to use this package in your JavaScript project.*
+*This is the recommended installation method. If you want to use this package in your JavaScript project, please follow this method.*
 
 This project is [released as an npm module](https://www.npmjs.com/package/@0xcert/ethereum-erc721). You must install it using the `npm` command:
 
